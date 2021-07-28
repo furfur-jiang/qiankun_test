@@ -1,0 +1,3 @@
+[submodule "qiankun_vue"]
+	path = qiankun_vue
+	url = https://github.com/furfur-jiang/qiankun_sub_vue.git
