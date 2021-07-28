@@ -1,3 +1,9 @@
 [submodule "qiankun_vue"]
 	path = qiankun_vue
 	url = https://github.com/furfur-jiang/qiankun_sub_vue.git
+[submodule "qiankun_react"]
+	path = qiankun_react
+	url = https://github.com/furfur-jiang/qiankun_sub_react.git
+[submodule "qiankun_base"]
+	path = qiankun_base
+	url = https://github.com/furfur-jiang/qiankun_base.git
